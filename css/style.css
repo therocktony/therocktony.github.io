@@ -21,7 +21,7 @@ nav li{
 
 #intro .jumbotron .container{
 	position:relative;
-    top: 50%;
+    top: 0%;
     transform: translate(0, -50%);
 }
 #intro .btn{
@@ -284,3 +284,5 @@ header nav img{
 	    margin-bottom: 18px;
 	}
 }
+
+  
